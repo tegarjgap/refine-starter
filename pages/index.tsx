@@ -7,7 +7,7 @@ export default function Index() {
       <h1 className="text-3xl font-bold  bg-red-400 text-center">
         Test shadcn/ui
       </h1>
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center mt-4">
         <CardWithForm />
       </div>
     </>
